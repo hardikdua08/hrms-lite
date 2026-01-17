@@ -86,37 +86,6 @@ Frontend: Vercel / Netlify
 
 Backend: Render / Railway
 
-📂 Project Structure
-Backend
-backend/
-│── app/
-│   ├── routes/
-│   │   ├── employee.py
-│   │   └── attendance.py
-│   ├── __init__.py
-│   ├── crud.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── database.py
-│   └── main.py
-│── requirements.txt
-│── .env
-
-Frontend
-frontend/
-│── src/
-│   ├── api/
-│   │   └── api.js
-│   ├── pages/
-│   │   ├── Dashboard.jsx
-│   │   ├── Employees.jsx
-│   │   ├── Attendance.jsx
-│   │   └── Leave.jsx
-│   ├── App.jsx
-│   └── main.jsx
-│── index.html
-│── package.json
-│── vite.config.js
 
 🚀 Running the Project Locally
 Backend Setup
