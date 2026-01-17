@@ -7,9 +7,9 @@ This project demonstrates end-to-end full-stack development using React, FastAPI
 
 (Add these after deployment)
 
-Frontend URL: https://your-frontend-url.vercel.app
+Frontend URL: 
 
-Backend API URL: https://your-backend-url.onrender.com
+Backend API URL: 
 
 GitHub Repository: https://github.com/your-username/hrms-lite
 
