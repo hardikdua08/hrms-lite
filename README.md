@@ -11,7 +11,7 @@ Frontend URL:
 
 Backend API URL: 
 
-GitHub Repository: https://github.com/your-username/hrms-lite
+GitHub Repository: https://github.com/hardikdua08/hrms-lite
 
 📌 Features
 1. Employee Management
